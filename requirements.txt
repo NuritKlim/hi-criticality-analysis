@@ -1,0 +1,11 @@
+pyswmm>=2.0.1
+swmm-api>=0.4.62
+swmm-toolkit>=0.15.5
+shapely>=2.1.0
+geopandas>=1.0.1
+numpy>=1.26.4
+pandas>=2.2.3
+scikit-learn>=1.7.0
+matplotlib>=3.7.0
+plotly>=6.0.1
+tqdm>=4.67.1
