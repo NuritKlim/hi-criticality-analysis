@@ -2,7 +2,8 @@
 
 Code for the paper: **"Physics-Informed Criticality Analysis for Infrastructure Networks"**
 
-> [AUTHORS]. *[JOURNAL NAME]*, [YEAR]. DOI: [DOI]
+> Nurit Klimovitsky-Maor, Lukas Guericke, Nicolas Caradot, Ofek Aloni, Shai
+Kendler, Barak Fishbain. *[JOURNAL NAME]*, [YEAR]. DOI: [DOI]
 
 ---
 
@@ -80,7 +81,6 @@ Where `output_folder` is the path to the timestamped folder produced in Part 1.
 **Astlingen** runs out of the box. It is a publicly available synthetic benchmark network (Schütze et al., 2018; Sun et al., 2020) and all required files are included.
 
 SIT (Suburban Israeli Town) and SEC (Section of a large European City) are based on proprietary municipal GIS data and cannot be distributed. To apply the pipeline to your own network, add files to Input/ folder with your own SWMM model and update case_name accordingly in hydro_informed_generation.py.
----
 
 ## Citation
 
